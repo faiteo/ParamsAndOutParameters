@@ -1,0 +1,6 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\bin\Debug\ParamsAndOutParameters.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\obj\Debug\ParamsAndOutParameters.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\bin\Debug\ParamsAndOutParameters.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\bin\Debug\ParamsAndOutParameters.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\obj\Debug\ParamsAndOutParameters.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\ParamsAndOutParameters\ParamsAndOutParameters\obj\Debug\ParamsAndOutParameters.pdb

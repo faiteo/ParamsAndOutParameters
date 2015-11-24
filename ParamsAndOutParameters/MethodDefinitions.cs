@@ -13,7 +13,7 @@ namespace ParamsAndOutParameters
             int sum = 0;
             for (int i = 0; i < input.Length; i++)
             {
-                sum += i;
+                sum += input[i];
             }
             return sum;
         }
